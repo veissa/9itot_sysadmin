@@ -1,0 +1,2 @@
+testuser:1001:users:/home/testuser:/bin/bash
+testuser1:1002:users:/home/testuser1:/bin/bash
